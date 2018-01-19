@@ -1,8 +1,7 @@
-#include<stdio.h>
-
-#define _CRT_SECURE_NO_WARNINGS
+#include<iostream>
 
 int main() {
-	
+	int a, b, c;
+
 	return 0;
 }
